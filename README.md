@@ -6,4 +6,5 @@
 ![react][REACT__BADGE]
 ![tailwind][TAILWIND_BADGE]
 
-[Link para o deploy]([https://gymworkoutgenerator.netlify.app])
+[Link para o deploy](https://gymworkoutgenerator.netlify.app)
+
